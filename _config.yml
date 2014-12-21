@@ -86,4 +86,4 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: heroku
-  repo: 
+  repo: https://git.heroku.com/evening-plateau-8760.git
