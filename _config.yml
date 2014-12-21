@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: BLOG
+title: Ken Richard
 subtitle:
 description:
 author: Ken Richard
@@ -12,7 +12,7 @@ language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://kenrichard.com
 root: /
 permalink: :title/
 tag_dir: tags
