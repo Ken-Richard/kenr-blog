@@ -1,1 +1,13 @@
-{"name":"hexo-site","version":"2.8.3","private":true,"dependencies":{"hexo-renderer-ejs":"*","hexo-renderer-less":"^0.1.2","hexo-renderer-marked":"*","hexo-renderer-stylus":"*","connect":"2.x"}}
+{
+  "name": "hexo-site",
+  "version": "2.8.3",
+  "private": true,
+  "dependencies": {
+    "connect": "2.x",
+    "express": "^4.10.6",
+    "hexo-renderer-ejs": "*",
+    "hexo-renderer-less": "^0.1.2",
+    "hexo-renderer-marked": "*",
+    "hexo-renderer-stylus": "*"
+  }
+}
